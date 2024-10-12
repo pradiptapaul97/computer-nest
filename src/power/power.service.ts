@@ -6,6 +6,5 @@ export class PowerService {
     supplyPower(watts: number)
     {
         console.log(`POWER SERVICE => Supplying ${watts} worth of power`);
-        
     }
 }
